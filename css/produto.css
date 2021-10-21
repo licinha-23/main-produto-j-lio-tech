@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.row{
+    margin: 10px;
+}
+h1{
+    padding-top: 10px;
+    padding-left: 25%;
+}
+#dois{
+    margin-top: 50px;
+}
+#botão{
+    background-color: #004078;
+    border: #004078;
+    width: 300px;
+}
